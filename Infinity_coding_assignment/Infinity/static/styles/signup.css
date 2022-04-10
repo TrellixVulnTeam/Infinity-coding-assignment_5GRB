@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #198754;
+    height: 100vh;
+}
+
+#signup .container #signup-row #signup-column #signup-box {
+    max-width: 600px;
+    height: 420px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+}
+
+#signup .container #signup-row #signup-column #signup-box #signup-form {
+    padding: 20px;
+}
