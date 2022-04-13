@@ -1,8 +1,9 @@
 # Infinity-coding-assignment
 Web Development 
 1. Django
-2. Python
-3. Firebase
+2. Bootstrap
+3. Python
+4. Firebase
 
 Instructures: 
 1.	Download the folder named “Infinity-coding-assignment” in the link provided. 
