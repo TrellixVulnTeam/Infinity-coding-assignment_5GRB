@@ -1,5 +1,8 @@
 # Infinity-coding-assignment
-Technical Assessment Test 
+Web Development 
+1. Django
+2. Python
+3. Firebase
 
 Instructures: 
 1.	Download the folder named “Infinity-coding-assignment” in the link provided. 
